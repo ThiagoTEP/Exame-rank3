@@ -1,0 +1,5 @@
+Teste de escrita e leitura
+vamos ver no que sai de resultado
+banana
+laranja
+fim
